@@ -1,5 +1,5 @@
 # 200 Days to Dev Excellence 🚀
-Date:06/02/2026
+Start Date:06/02/2026
 
 ## Overview
 
@@ -18,28 +18,62 @@ A comprehensive 200-day learning journey designed to transform into a skilled de
 ## Repository Structure
 
 ```
-200days/
-├── README.md                 # This file
-├── oops.ipynb               # Object-Oriented Programming concepts
-└── (more topics to be added)
+200daysofcode/
+├── README.md                           # This file
+├── PandasAndNumpy/
+│   ├── numpy.ipynb                    # NumPy cheat sheet with examples
+│   └── pandas.ipynb                   # Pandas cheat sheet with practice problems
+└── LLD/
+    ├── Class-Relationships/
+    │   └── Association.ipynb          # Association types with executable examples
+    └── Python-oops/
+        └── oops.ipynb                 # Object-Oriented Programming concepts
 ```
 
 ## Topics Covered
 
-- Object-Oriented Programming (OOP)
+### 📊 Data Science & Libraries
+- **NumPy**: Array creation, indexing, slicing, universal functions, aggregations, linear algebra, random numbers
+- **Pandas**: DataFrame operations, selection & indexing, groupby, pivot tables, merging, handling missing data
+
+### 💼 Object-Oriented Programming (OOP)
+- Core OOP principles and concepts
+- Design patterns and best practices
+
+### 🏗️ System Design (Low-Level Design - LLD)
+- **Class Relationships**: 
+  - One-to-One, One-to-Many, Many-to-One, Many-to-Many associations
+  - Unidirectional and Bidirectional associations
+  - Aggregation vs. Composition
+
+### 📚 Additional Topics (To Be Added)
 - Data Structures (Arrays, Linked Lists, Trees, Graphs, Hash Tables, etc.)
 - Algorithms (Sorting, Searching, Dynamic Programming, Greedy, etc.)
-- High-Level System Design (Microservices, Databases, Caching, Load Balancing, etc.)
-- Low-Level System Design (Memory, Concurrency, File Systems, etc.)
-- Real-World Problem Solving
+- High-Level System Design (Microservices, Databases, Caching, Load Balancing)
+- Memory, Concurrency, File Systems
 
 ## Progress Tracking
 
 Daily commits and updates logged as the journey progresses. Each section includes:
 - Concept explanations
 - Code implementations
-- Practice problems
+- Practice problems with solutions
 - Real-world applications
+
+## Notebook Contents
+
+### PandasAndNumpy/
+- **numpy.ipynb**: Comprehensive NumPy cheat sheet with runnable examples covering arrays, indexing, operations, statistics, and linear algebra
+- **pandas.ipynb**: Pandas cheat sheet with executable examples and 4 practice problems with solutions (filtering, feature engineering, aggregation, pivot tables)
+
+### LLD/
+- **Class-Relationships/Association.ipynb**: 8 types of associations with executable Python examples:
+  - Cardinality: One-to-One, One-to-Many, Many-to-One, Many-to-Many
+  - Direction: Unidirectional, Bidirectional
+  - Special: Aggregation, Composition
+  - Includes comparison table (Aggregation vs. Composition)
+
+- **Python-oops/oops.ipynb**: Object-Oriented Programming fundamentals
 
 ## How to Use This Repository
 
