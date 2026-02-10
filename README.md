@@ -20,14 +20,18 @@ A comprehensive 200-day learning journey designed to transform into a skilled de
 ```
 200daysofcode/
 ├── README.md                           # This file
+├── DSA/
+│   ├── BinaryTrees.ipynb               # Binary trees notes and examples
+│   └── LeetcodeProgress.ipynb          # Track LeetCode practice progress
 ├── PandasAndNumpy/
-│   ├── numpy.ipynb                    # NumPy cheat sheet with examples
-│   └── pandas.ipynb                   # Pandas cheat sheet with practice problems
+│   ├── numpy.ipynb                     # NumPy cheat sheet with examples
+   └── pandas.ipynb                    # Pandas cheat sheet with practice problems
 └── LLD/
-    ├── Class-Relationships/
-    │   └── Association.ipynb          # Association types with executable examples
-    └── Python-oops/
-        └── oops.ipynb                 # Object-Oriented Programming concepts
+  ├── Class-Relationships/
+  │   ├── Association.ipynb          # Association types with executable examples
+  │   └── DependencyAndRealization.ipynb # Dependency & Realization notes
+  └── Python-oops/
+    └── oops.ipynb                 # Object-Oriented Programming concepts
 ```
 
 ## Topics Covered
@@ -62,17 +66,20 @@ Daily commits and updates logged as the journey progresses. Each section include
 
 ## Notebook Contents
 
+### DSA/
+- **BinaryTrees.ipynb**: Notes and examples for binary trees and traversals
+- **LeetcodeProgress.ipynb**: Ongoing log of LeetCode problems solved and progress tracking
+
 ### PandasAndNumpy/
 - **numpy.ipynb**: Comprehensive NumPy cheat sheet with runnable examples covering arrays, indexing, operations, statistics, and linear algebra
-- **pandas.ipynb**: Pandas cheat sheet with executable examples and 4 practice problems with solutions (filtering, feature engineering, aggregation, pivot tables)
+- **pandas.ipynb**: Pandas cheat sheet with executable examples and practice problems
 
 ### LLD/
-- **Class-Relationships/Association.ipynb**: 8 types of associations with executable Python examples:
+- **Class-Relationships/Association.ipynb**: Association types with executable Python examples:
   - Cardinality: One-to-One, One-to-Many, Many-to-One, Many-to-Many
   - Direction: Unidirectional, Bidirectional
   - Special: Aggregation, Composition
-  - Includes comparison table (Aggregation vs. Composition)
-
+- **Class-Relationships/DependencyAndRealization.ipynb**: Notes and examples on Dependency and Realization
 - **Python-oops/oops.ipynb**: Object-Oriented Programming fundamentals
 
 ## How to Use This Repository
