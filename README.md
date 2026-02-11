@@ -25,7 +25,7 @@ A comprehensive 200-day learning journey designed to transform into a skilled de
 │   └── LeetcodeProgress.ipynb          # Track LeetCode practice progress
 ├── PandasAndNumpy/
 │   ├── numpy.ipynb                     # NumPy cheat sheet with examples
-   └── pandas.ipynb                    # Pandas cheat sheet with practice problems
+│   └── pandas.ipynb                    # Pandas cheat sheet with practice problems
 └── LLD/
   ├── Class-Relationships/
   │   ├── Association.ipynb          # Association types with executable examples
