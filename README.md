@@ -22,6 +22,7 @@ A comprehensive 200-day learning journey designed to transform into a skilled de
 ├── README.md                           # This file
 ├── DSA/
 │   ├── BinaryTrees.ipynb               # Binary trees notes and examples
+│   ├── Heaps.ipynb                     # Heaps notes and examples
 │   └── LeetcodeProgress.ipynb          # Track LeetCode practice progress
 ├── PandasAndNumpy/
 │   ├── numpy.ipynb                     # NumPy cheat sheet with examples
